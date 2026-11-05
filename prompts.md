@@ -49,6 +49,11 @@ A cute glossy 3D app icon in modern iOS style, a translucent blue water drop wit
 A cute glossy 3D app icon in modern iOS style, a black face with a simple >_ < expression, soft material, dark background with subtle gradient, minimal, soft lighting, rounded square, no text
 ```
 
+### Post Time (Cute Clock)
+```
+A cute glossy 3D app icon in modern iOS style, a smiling clock face with big expressive eyes and simple clock hands, soft plastic material with specular highlights, vibrant blue to purple gradient background filling the rounded square, soft studio lighting, centered, playful, no text, no border
+```
+
 ## Midjourney Specific
 Add at the end: `--ar 1:1 --s 250 --v 6.1 --no text, border, frame`
 
